@@ -2,3 +2,9 @@ title: Nate Givens
 description: >
   Welcome to my website!
 theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - stories.md
