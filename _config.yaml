@@ -1,7 +1,7 @@
 title: Nate Givens
 description: >
   Welcome to my website!
-remote_theme: jekyll/minima
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Minima theme customization
 minima:
