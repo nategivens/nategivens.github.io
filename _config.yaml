@@ -1,7 +1,7 @@
 title: Nate Givens
 description: >
   Welcome to my website!
-remote_theme: minima
+theme: minima
 
 # Navigation
 header_pages:
