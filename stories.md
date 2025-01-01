@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Stories
 permalink: /stories/
 ---
-
-# Short Stories
 
 - **Title of Paper 1**: [Link](#)
 - **Title of Paper 2**: [Link](#)
