@@ -10,3 +10,6 @@ header_pages:
   - about.md
   - stories.md
   - blog.md
+
+# Footer
+footer: © 2025 Nate Givens. All Rights Reserved.
