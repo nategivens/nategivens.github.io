@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-# About Me
 
 I am a machine learning engineer and a speculative fiction writer.
