@@ -3,9 +3,20 @@ description: >
   Welcome to my website!
 remote_theme: jekyll/minima
 
+# Minima options
+minima:
+  skin: dark
+
 # Navigation
 header_pages:
   - index.md
   - about.md
   - stories.md
   - blog.md
+
+# Social
+social_links:
+  twitter: https://twitter.com/writenatewrite
+  github: https://github.com/nategivens
+  linkedin: https://linkedin.com/in/nathanielgivens
+  facebook: https://facebook.com/nategivenswriter
