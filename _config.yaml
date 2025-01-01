@@ -2,6 +2,7 @@ title: Nate Givens
 description: >
   Welcome to my website!
 theme: minima
+  skin: dark
 
 # Navigation
 header_pages:
