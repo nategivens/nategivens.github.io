@@ -1,11 +1,7 @@
 title: Nate Givens
 description: >
   Welcome to my website!
-theme: minima
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
+remote_theme: jekyll/minima
 
 # Minima theme customization
 minima:
