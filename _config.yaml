@@ -12,7 +12,7 @@ header_pages:
   - index.md
   - about.md
   - stories.md
-  - blog.md
+  - blog-archive.md
 
 # Social
 social_links:

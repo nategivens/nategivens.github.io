@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Blog
-permalink: /blog/
+list_title: Blog Archive
+permalink: /blog-archive/
 ---
 
-Welcome to my blog! Below, you'll find all my latest posts.
+You can find the complete blog post archive here.
