@@ -2,10 +2,8 @@ title: Nate Givens
 description: >
   Welcome to my website!
 remote_theme: pages-themes/cayman@v0.2.0
-
-# Minima theme customization
-minima:
-  skin: dark
+plugins:
+- jekyll-remote-theme 
 
 # Navigation
 header_pages:
