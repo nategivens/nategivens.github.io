@@ -12,7 +12,7 @@ Here are the first seven short stories I've published, sorted from most recent t
 
 <!-- Story 1 -->
 <div class="story-item">
-  <img src="/assets/imgs/just-like-old-times.jpb" alt="Cover of We Dare Anthology" class="story-img">
+  <img src="assets/imgs/just-like-old-times.jpb" alt="Cover of We Dare Anthology" class="story-img">
   <h3>Just Like Old Times (2023)</h3>
   <p>Jason and his synthetic war-dog Sam are a long way from the bloody Martian battlefields where humanity turned the tide of the Ceti Invasion. Once feted as war heroes, the two work in obscurity as First Responders out of Janus Station on the outskirts of the Solar System. But even though they’re through with the war, the war isn’t through with them, as a Solaran Council Special Investigator tracks Jason down to accuse him of war crimes and harboring dangerous, illegal technology. Is Jason’s dog Sam really just battered war-surplus, or something much, much more? This story appeared in the anthology We Dare: Old Age and Treachery available <a href="https://www.amazon.com/We-Dare-Old-Age-Treachery-ebook/dp/B0C5H9HHXT/">from Amazon</a>.</p>
 </div>
