@@ -4,7 +4,4 @@ title: ""
 list_title: Recent Posts
 ---
 
-## Welcome to My Website
-
-This is the home page of my professional website.
-
+I'm a machine learning engineer and a speculative fiction writer. I write code and I write stories. I post thoughts about both here.
