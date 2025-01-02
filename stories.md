@@ -39,7 +39,7 @@ Here are the first seven short stories I've published, sorted from most recent t
 <!-- Story 5 -->
 <div class="story-item">
   <h3>One Heartbeat to Say Goodbye (2021)</h3>
-  <img src="../assets/imgs/stories/yaktaochelli.jpg" alt="Cover of Twisted Tales Anthology" class="story-img">
+  <img src="../assets/imgs/stories/one-heartbeat-to-say-goodbye.jpg" alt="Cover of Twisted Tales Anthology" class="story-img">
   <p>This was the first story that I wrote when I started writing seriously in 2017. It's the story of how one simple, innocent mistake can have life-and-death consequences, especially if your neighborhood is being invaded by skinwalkers. It found a home in the LTUE benefit anthology <a href="https://www.amazon.com/Twilight-Tales-LTUE-Benefit-Anthologies-ebook/dp/B08R33PV14/">Twilight Tales.</a></p>
 
 <!-- Story 6 -->
