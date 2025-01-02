@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: Blog Archive
+title: Blog Archive
 permalink: /blog-archive/
 ---
 
