@@ -27,7 +27,7 @@ Here are the first seven short stories I've published, sorted from most recent t
 <!-- Story 3 -->
 <div class="story-item">
   <h3>Yaktaochelli (2021)</h3>
-  <img src="../assets/imgs/stories/Yaktaochelli.jpg" alt="Cover of Superstitions Anthology" class="story-img">
+  <img src="../assets/imgs/stories/yaktaochelli.jpg" alt="Cover of Superstitions Anthology" class="story-img">
   <p>In “Yaktaochelli” I returned to the world of Bennie Browning (from “Follow the Temple”). This time she’s not chasing a walking building, she’s tracking down her younger brother, John Moses, and rescuing from the clutches of an Aztec war god who is thirsty for a fresh blood sacrifice. The story appeared in the <a href="https://www.amazon.com/Superstitions-Tales-Mountains-Jace-Killan-ebook/dp/B0926QQZHX/">Superstitions: Tales from the Mountains anthology</a> which is also available <a href="https://www.audible.com/pd/Superstitions-Audiobook/B09QH4N7RW">from Audible.</a></p>
 </div>
 
