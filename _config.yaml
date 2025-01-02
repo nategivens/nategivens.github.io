@@ -4,6 +4,10 @@ description: >
 remote_theme: jekyll/minima
 show_excerpts: true
 
+# Author info
+author:
+  name: Nate Givens
+
 # Minima options
 minima:
   skin: dark
