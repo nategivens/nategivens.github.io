@@ -12,6 +12,7 @@ minima:
     - { platform: twitter, user_url: "https://twitter.com/writenatewrite" }
     - { platform: linkedin, user_url: "https://linkedin.com/in/nathanielgivens" }
     - { platform: facebook, user_url: "https://facebook.com/nategivenswriter" }
+  include_fontawesome: true
 
 # Navigation
 header_pages:
