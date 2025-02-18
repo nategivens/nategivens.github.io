@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: ""
 list_title: Recent Posts
 ---
