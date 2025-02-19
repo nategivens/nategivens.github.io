@@ -15,13 +15,6 @@ minima:
   include_stylesheets:
     - /assets/css/custom.css
 
-# Social links
-social_links:
-  github:   nategivens
-  twitter:  writenatewrite
-  linkedin: in/nathanielgivens
-  facebook: nategivenswriter
-
 # Navigation
 header_pages:
   - index.md
