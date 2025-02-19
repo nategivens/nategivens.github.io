@@ -4,7 +4,7 @@ description: >
   I'm a machine learning engineer and a speculative fiction writer,
   and this is my home on the Internet.
 
-remote_theme: jekyll/minima@latest
+remote_theme: jekyll/minima
 show_excerpts: true
 include_rss: false 
 
