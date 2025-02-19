@@ -10,7 +10,6 @@ include_rss: false
 minima:
   skin: dark
   social_links:
-  social_links:
     github:   https://github.com/nategivens
     twitter:  https://twitter.com/writenatewrite
     linkedin: https://linkedin.com/in/nathanielgivens
