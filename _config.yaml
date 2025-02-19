@@ -17,10 +17,10 @@ minima:
 
 # Social links
 social_links:
-  github:   https://github.com/nategivens
-  twitter:  https://twitter.com/writenatewrite
-  linkedin: https://linkedin.com/in/nathanielgivens
-  facebook: https://facebook.com/nategivenswriter
+  github:   nategivens
+  twitter:  writenatewrite
+  linkedin: in/nathanielgivens
+  facebook: nategivenswriter
 
 # Navigation
 header_pages:
