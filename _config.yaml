@@ -1,7 +1,9 @@
+# _config.yaml
 title: Nate Givens
 description: >
   I'm a machine learning engineer and a speculative fiction writer,
   and this is my home on the Internet.
+
 remote_theme: jekyll/minima
 show_excerpts: true
 include_rss: false 
@@ -9,15 +11,17 @@ include_rss: false
 # Minima options
 minima:
   skin: dark
-  social_links:
-    github:   https://github.com/nategivens
-    twitter:  https://twitter.com/writenatewrite
-    linkedin: https://linkedin.com/in/nathanielgivens
-    facebook: https://facebook.com/nategivenswriter
   include_fontawesome: true
   include_stylesheets:
     - /assets/css/custom.css
-  
+
+# Social links
+social_links:
+  github:   https://github.com/nategivens
+  twitter:  https://twitter.com/writenatewrite
+  linkedin: https://linkedin.com/in/nathanielgivens
+  facebook: https://facebook.com/nategivenswriter
+
 # Navigation
 header_pages:
   - index.md
