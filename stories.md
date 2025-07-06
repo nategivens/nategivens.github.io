@@ -10,7 +10,7 @@ Here are the first seven short stories I've published, sorted from most recent t
 
 <!-- Story 1 -->
 <div class="story-item">
-  <h3>Echo, Write to All (2023)</h3>
+  <h3>Echo, Write to All (2025)</h3>
   <img src="../assets/imgs/stories/echo-write-to-all.png" alt="Cover of Analog for March/April 2025" class="story-img">
   <p>Trak has spent his life training in the rituals of the console to compete for a chance to participate in the Terminal Feast at Landing City. To the Ministers, he is nothing but another expendable tool in their secret war against the Wardens. To the Wardens, he is a heretic to be crucified if discovered. All Trak wants is a way to escape. When he finally enters the Temple of the Node he gets his chance, but will he act quicly enough to change not only his fate, but that of his entire people? Find the story in the <a href="https://www.analogsf.com/store/print-magazine/">March/April 2025 issue of Analog</a>.</p>
 </div>
