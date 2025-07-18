@@ -4,7 +4,7 @@ title: Stories
 permalink: /stories/
 ---
 
-Here are the first seven short stories I've published, sorted from most recent to oldest. I'll update this page as new stories come out.
+Here are the short stories I've published so far, sorted from most recent to oldest. I'll update this page as new stories come out.
 
 <div class="story-list">
 
